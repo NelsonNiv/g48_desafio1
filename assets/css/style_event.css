@@ -1,0 +1,28 @@
+  .parrafo {
+    text-align: justify;
+    padding-top: 7rem;
+    padding-left: 16.5rem;
+    padding-right: 15rem;
+  } 
+
+  .titulo {
+    text-align: left;
+    padding-bottom: 2rem;
+  } 
+  
+  .subtitulo {
+    text-align: left;
+    padding-bottom: 1rem;
+    font-weight: bold;
+  } 
+
+  .central_image img{
+    width: 570px;
+    padding-bottom: 2rem;
+  }
+
+  .box{
+    text-align:justify;
+    padding-bottom: 1rem;
+
+  }
